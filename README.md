@@ -4,21 +4,16 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
-- [Overview](#overview)
+
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
 
 ### The challenge
 
@@ -34,7 +29,7 @@ Users should be able to:
 - Solution URL: [Add solution URL here](https://github.com/danieleugenevoigt/product-preview-card-component-main)
 - Live Site URL: [Add live site URL here](https://danieleugenevoigt.github.io/product-preview-card-component-main/)
 
-## My process
+
 
 ### Built with
 
@@ -63,7 +58,7 @@ I am feeling more confident, but want to have a really solid workflow about layo
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/danielvoigt)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/danieleugenevoigt)
 
 
 
